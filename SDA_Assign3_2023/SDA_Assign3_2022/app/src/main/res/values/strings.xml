@@ -25,5 +25,9 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="welcome_message_fragment">Welcome to my Tshirt Store!</string>
+    <string name="collection">I prefer to collect it</string>
+    <string name="collection_in_days">I will collect it in (days): </string>
+
+
 
 </resources>
