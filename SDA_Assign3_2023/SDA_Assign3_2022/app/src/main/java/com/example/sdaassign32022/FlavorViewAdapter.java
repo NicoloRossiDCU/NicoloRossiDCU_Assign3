@@ -96,6 +96,7 @@ public class FlavorViewAdapter extends RecyclerView.Adapter<FlavorViewAdapter.Vi
             itemView.setOnClickListener(this);
         }
 
+        // this will be called when a click happens on the view holder
         @Override
         public void onClick(View view) {
             // so using the onItemClick of the interface will be passed to constructor

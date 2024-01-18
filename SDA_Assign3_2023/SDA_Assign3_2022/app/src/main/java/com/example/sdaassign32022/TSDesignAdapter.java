@@ -47,7 +47,7 @@ public class TSDesignAdapter {
     }
 
     /**
-     * Get the name of the Android version
+     * Get the name of the T-Shirt version
      */
     public String getVersionName() {
         return mVersionName;
