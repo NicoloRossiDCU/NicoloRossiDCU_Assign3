@@ -44,7 +44,7 @@ public class ProductList extends Fragment  implements FlavorViewAdapter.OnItemLi
         mDesign.add(new TSDesignAdapter("Baphomet", "S-M-XL", R.drawable.baphomet));
         mDesign.add(new TSDesignAdapter("Space", "M-L-XL", R.drawable.space));
         mDesign.add(new TSDesignAdapter("Samurai", "M-L-XL", R.drawable.samurai));
-        mDesign.add(new TSDesignAdapter("Moon", "M-L-XL", R.drawable.moon));
+        mDesign.add(new TSDesignAdapter("Moon", "M-L-XL", R.drawable.space));
 
         //start it with the view
         Log.d(TAG, "Starting recycler view");
